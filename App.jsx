@@ -4,8 +4,11 @@ import QuizQestion from "./QuizQuestion"
 /**
  * Project planning:
  * 
+ * Confetti
  * Better transition when play again button is clicked
  * Also, investigate why it seems to fail load data sometimes
+ * Redeploy
+ * Loading screen
  */
 
 export default function Quizzical() {
